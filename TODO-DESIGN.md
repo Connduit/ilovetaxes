@@ -3,7 +3,7 @@
 ### Notes
 
     - Washington has 7% on capital gains
-    - California Formula Example: =IF(inputs!B1  > 1000000, 0.133, IF(inputs!B1 > 721314, 0.123, IF(inputs!B1 > 432787, 0.113, IF(inputs!B1 > 360659, 0.103, IF(inputs!B1 > 70606, 0.093, IF(inputs!B1 >55866, 0.08, IF(inputs!B1>40245, 0.06, IF(inputs!B1>25499,0.04,IF(inputs!B1>10756,0.02,0.01)))))))))
+    - California Formula Example (where inputs!B1 == income): =IF(inputs!B1  > 1000000, 0.133, IF(inputs!B1 > 721314, 0.123, IF(inputs!B1 > 432787, 0.113, IF(inputs!B1 > 360659, 0.103, IF(inputs!B1 > 70606, 0.093, IF(inputs!B1 >55866, 0.08, IF(inputs!B1>40245, 0.06, IF(inputs!B1>25499,0.04,IF(inputs!B1>10756,0.02,0.01)))))))))
 
 ### Design Decision
 
