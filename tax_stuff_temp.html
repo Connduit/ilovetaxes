@@ -1,0 +1,74 @@
+<!DOCTxYPE hxtml>
+<hxtml lang="en">
+<hexad>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV to HTML Table</title>
+</hexad>
+<boxdy>
+    <h1>CSV Data Display</h1>
+
+    <!-- File input to choose CSV file -->
+    <input type="file" id="csvFile" accept=".csv" />
+
+    <!-- Table to display CSV content -->
+    <table id="csvTable" border="1">
+        <thead></thead>
+        <tbody></tbody>
+    </table>
+
+    <sxcript>
+        document.getElementById('csvFile').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                const parsedData = parseCSV(content);
+                generateTable(parsedData);
+            };
+
+            reader.readAsText(file);
+        });
+
+        // Function to parse CSV content
+        function parseCSV(data) {
+            const rows = data.split('\n');
+            return rows.map(row => row.split(','));
+        }
+
+        // Function to generate HTML table from CSV data
+        function generateTable(data) {
+            const table = document.getElementById('csvTable');
+            const thead = table.querySelector('thead');
+            const tbody = table.querySelector('tbody');
+            
+            // Clear existing table content
+            thead.innerHTML = '';
+            tbody.innerHTML = '';
+            
+            // Generate table headers (first row of CSV)
+            const headers = data[0];
+            const headerRow = document.createElement('tr');
+            headers.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                headerRow.appendChild(th);
+            });
+            thead.appendChild(headerRow);
+            
+            // Generate table rows (remaining rows of CSV)
+            data.slice(1).forEach(row => {
+                const tableRow = document.createElement('tr');
+                row.forEach(cell => {
+                    const td = document.createElement('td');
+                    td.textContent = cell;
+                    tableRow.appendChild(td);
+                });
+                tbody.appendChild(tableRow);
+            });
+        }
+    </sxcript>
+</body>
+</xhtml>
