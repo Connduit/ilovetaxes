@@ -1,0 +1,2055 @@
+{
+    "states": [
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alaska",
+            "single_rates": [],
+            "married_rates": [],
+            "standard_deduction": {
+                "single": "n.a.",
+                "couple": "n.a."
+            },
+            "personal_exemption": {
+                "single": "n.a.",
+                "couple": "n.a.",
+                "dependent": "n.a."
+            }
+        },
+        {
+            "state": "Arizona",
+            "single_rates": [
+                {
+                    "rate": "2.50%",
+                    "bracket": "$0"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.50%",
+                    "bracket": "$0"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$15,000",
+                "couple": "$30,000"
+            },
+            "personal_exemption": {
+                "single": "n.a.",
+                "couple": "n.a.",
+                "dependent": "$100 credit"
+            }
+        },
+        {
+            "state": "Arkansas",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "3.90%",
+                    "bracket": "$4,500"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "3.90%",
+                    "bracket": "$4,500"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$2,410",
+                "couple": "$4,820"
+            },
+            "personal_exemption": {
+                "single": "$29 credit",
+                "couple": "$58 credit",
+                "dependent": "$29 credit"
+            }
+        },
+        {
+            "state": "California",
+            "single_rates": [
+                {
+                    "rate": "1.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "2.00%",
+                    "bracket": "$10,756"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$25,499"
+                },
+                {
+                    "rate": "6.00%",
+                    "bracket": "$40,245"
+                },
+                {
+                    "rate": "8.00%",
+                    "bracket": "$55,866"
+                },
+                {
+                    "rate": "9.30%",
+                    "bracket": "$70,606"
+                },
+                {
+                    "rate": "10.30%",
+                    "bracket": "$360,659"
+                },
+                {
+                    "rate": "11.30%",
+                    "bracket": "$432,787"
+                },
+                {
+                    "rate": "12.30%",
+                    "bracket": "$721,314"
+                },
+                {
+                    "rate": "13.30%",
+                    "bracket": "$1,000,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "1.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "2.00%",
+                    "bracket": "$21,512"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$50,998"
+                },
+                {
+                    "rate": "6.00%",
+                    "bracket": "$80,490"
+                },
+                {
+                    "rate": "8.00%",
+                    "bracket": "$111,732"
+                },
+                {
+                    "rate": "9.30%",
+                    "bracket": "$141,732"
+                },
+                {
+                    "rate": "10.30%",
+                    "bracket": "$721,318"
+                },
+                {
+                    "rate": "11.30%",
+                    "bracket": "$865,574"
+                },
+                {
+                    "rate": "12.30%",
+                    "bracket": "$1,000,000"
+                },
+                {
+                    "rate": "13.30%",
+                    "bracket": "$1,442,628"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$5,540",
+                "couple": "$11,080"
+            },
+            "personal_exemption": {
+                "single": "$149 credit",
+                "couple": "$298 credit",
+                "dependent": "$461 credit"
+            }
+        },
+        {
+            "state": "Colorado",
+            "single_rates": [
+                {
+                    "rate": "4.40%",
+                    "bracket": "$0"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "4.40%",
+                    "bracket": "$0"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$15,000",
+                "couple": "$30,000"
+            },
+            "personal_exemption": {
+                "single": "n.a.",
+                "couple": "n.a.",
+                "dependent": "n.a."
+            }
+        },
+        {
+            "state": "Connecticut",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.50%",
+                    "bracket": "$10,000"
+                },
+                {
+                    "rate": "5.50%",
+                    "bracket": "$50,000"
+                },
+                {
+                    "rate": "6.00%",
+                    "bracket": "$100,000"
+                },
+                {
+                    "rate": "6.50%",
+                    "bracket": "$200,000"
+                },
+                {
+                    "rate": "6.90%",
+                    "bracket": "$250,000"
+                },
+                {
+                    "rate": "6.99%",
+                    "bracket": "$500,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.50%",
+                    "bracket": "$20,000"
+                },
+                {
+                    "rate": "5.50%",
+                    "bracket": "$100,000"
+                },
+                {
+                    "rate": "6.00%",
+                    "bracket": "$200,000"
+                },
+                {
+                    "rate": "6.50%",
+                    "bracket": "$400,000"
+                },
+                {
+                    "rate": "6.90%",
+                    "bracket": "$500,000"
+                },
+                {
+                    "rate": "6.99%",
+                    "bracket": "$1,000,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "n.a.",
+                "couple": "n.a."
+            },
+            "personal_exemption": {
+                "single": "$15,000",
+                "couple": "$24,000",
+                "dependent": "$0"
+            }
+        },
+        {
+            "state": "Delaware",
+            "single_rates": [
+                {
+                    "rate": "2.20%",
+                    "bracket": "$2,000"
+                },
+                {
+                    "rate": "3.90%",
+                    "bracket": "$5,000"
+                },
+                {
+                    "rate": "4.80%",
+                    "bracket": "$10,000"
+                },
+                {
+                    "rate": "5.20%",
+                    "bracket": "$20,000"
+                },
+                {
+                    "rate": "5.55%",
+                    "bracket": "$25,000"
+                },
+                {
+                    "rate": "6.60%",
+                    "bracket": "$60,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.20%",
+                    "bracket": "$2,000"
+                },
+                {
+                    "rate": "3.90%",
+                    "bracket": "$5,000"
+                },
+                {
+                    "rate": "4.80%",
+                    "bracket": "$10,000"
+                },
+                {
+                    "rate": "5.20%",
+                    "bracket": "$20,000"
+                },
+                {
+                    "rate": "5.55%",
+                    "bracket": "$25,000"
+                },
+                {
+                    "rate": "6.60%",
+                    "bracket": "$60,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,250",
+                "couple": "$6,500"
+            },
+            "personal_exemption": {
+                "single": "$110 credit",
+                "couple": "$220 credit",
+                "dependent": "$110 credit"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        },
+        {
+            "state": "Alabama",
+            "single_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$500"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$3,000"
+                }
+            ],
+            "married_rates": [
+                {
+                    "rate": "2.00%",
+                    "bracket": "$0"
+                },
+                {
+                    "rate": "4.00%",
+                    "bracket": "$1,000"
+                },
+                {
+                    "rate": "5.00%",
+                    "bracket": "$6,000"
+                }
+            ],
+            "standard_deduction": {
+                "single": "$3,000",
+                "couple": "$8,500"
+            },
+            "personal_exemption": {
+                "single": "$1,500",
+                "couple": "$3,000",
+                "dependent": "$1,000"
+            }
+        }
+    ],
+    "federal": [
+        {
+
+        }
+    ]
+}

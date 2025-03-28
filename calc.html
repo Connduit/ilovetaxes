@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Income Tax Calculator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <h1>State Income Tax Calculator</h1>
+
+    <label for="file">Upload Tax Bracket CSV:</label>
+    <input type="file" id="file" onchange="handleFile(event)"><br><br>
+
+    <label for="income">Enter Your Income:</label>
+    <input type="number" id="income" placeholder="Enter income" required><br><br>
+
+    <label for="state">Choose Your State:</label>
+    <select id="state">
+        <option value="">--Select State--</option>
+        <!-- States will be populated here dynamically -->
+    </select><br><br>
+
+    <label for="filingStatus">Choose Your Filing Status:</label>
+    <select id="filingStatus">
+        <option value="single">Single</option>
+        <option value="married">Married</option>
+        <!-- Add other statuses if needed -->
+    </select><br><br>
+
+    <button onclick="calculateTax()">Calculate Tax</button><br><br>
+
+    <p id="result"></p>
+
+    <!-- <script src="test.js"></script> -->
+    <script src="temp.js"></script>
+</body>
+</html>
